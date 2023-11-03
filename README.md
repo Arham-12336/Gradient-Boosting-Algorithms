@@ -16,13 +16,13 @@ The dataset is split into training and testing sets (80% training, 20% testing) 
 ## Models 🤖
 The following models are evaluated:
 
-K-Nearest Neighbors (KNN)
-Logistic Regression
-Naive Bayes
-Decision Tree
-Random Forest
-LightGBM
-XGBoost
+- K-Nearest Neighbors (KNN)
+- Logistic Regression
+- Naive Bayes
+- Decision Tree
+- Random Forest
+- LightGBM
+- XGBoost
 
 ## Model Evaluation 📈
 Model performance is assessed using:
